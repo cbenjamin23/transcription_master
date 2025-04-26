@@ -5,6 +5,9 @@ This repo is meant for transcribing and summarizing an audio file.
 
 Currently it has been tested exclusively on .mp4 files.
 
+*Testing123*
+**Testing123**
+
 Usage Commands in Order:
 - chmod +x run.sh
 - ./run.sh mp4_file_path
